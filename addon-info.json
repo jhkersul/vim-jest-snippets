@@ -1,7 +1,7 @@
 {
   "name" : "vim-jest-snippets",
-  "author" : "jhkersul",
-  "maintainer" : "jhkersul",
+  "author" : "joaohkfaria",
+  "maintainer" : "joaohkfaria",
   "repository" : {"type": "git", "url": "git@github.com:joaohkfaria/vim-jest-snippets.git"},
   "dependencies" : {
   },

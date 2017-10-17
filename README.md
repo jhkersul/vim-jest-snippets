@@ -3,7 +3,16 @@
 
 An Vim snippet library for [Jest](https://facebook.github.io/jest/). This library uses ES6 syntax.
 
-Based on [Atom Jest Snippets](https://github.com/bryceosterhaus/atom-jest-snippets)
+Based on [Atom Jest Snippets](https://github.com/bryceosterhaus/atom-jest-snippets).
+
+## Installation
+
+#### Using Vundle
+Add this line to your .vimrc file
+
+```
+Plugin 'joaohkfaria/vim-jest-snippets'
+```
 
 ## Snippet Available
 
