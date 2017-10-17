@@ -1,0 +1,9 @@
+{
+  "name" : "vim-jest-snippets",
+  "author" : "jhkersul",
+  "maintainer" : "jhkersul",
+  "repository" : {"type": "git", "url": "git@github.com:joaohkfaria/vim-jest-snippets.git"},
+  "dependencies" : {
+  },
+  "description" : "Vim editor snippets for Jest."
+}
